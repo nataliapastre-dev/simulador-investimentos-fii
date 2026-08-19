@@ -8,7 +8,20 @@
 Projeto desenvolvido como solução do desafio **"Criando uma Ferramenta de Controle de Investimentos com Excel"**, integrante do bootcamp **Santander - Excel com IA e Claude** na plataforma **DIO (Digital Innovation One)**.
 
 ---
+## 📸 Demonstração da Planilha
 
+<div align="center">
+
+### 📊 Dashboard Principal
+![Dashboard do Simulador](./img/dashboard.png)
+
+### 📈 Gráficos de Proventos e Aportes
+![Gráficos de Proventos e Aportes](./img/graficos.png)
+
+### 📋 Base de Ativos e Cotas Mágicas
+![Base de Ativos e Indicadores](./img/base-ativos.png)
+
+</div>
 
 ## 📌 Sobre o Projeto
 
