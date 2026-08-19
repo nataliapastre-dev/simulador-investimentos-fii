@@ -47,6 +47,4 @@ Desenvolvido por **Natália Baptista** 🚀
 - 💼 [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev)
 - 🐙 [GitHub](https://github.com/nataliapastre-dev)
 
-Desenvolvido por **Natália Baptista** 🚀  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev)
-- 🐙 [GitHub](https://github.com/nataliapastre)
+
