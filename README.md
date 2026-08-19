@@ -40,11 +40,6 @@ A solução alia conceitos de modelagem financeira no Excel a prompts de Intelig
 
 </div>
 
-### 📋 Base de Ativos e Cotas Mágicas
-<img src="./img/base-ativos.png" alt="Base de Ativos e Indicadores" width="100%"/>
-
-</div>
-
 ---
 
 ## 🎯 Principais Funcionalidades
