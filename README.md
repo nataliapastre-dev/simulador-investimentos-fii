@@ -1,57 +1,70 @@
-# 📊 Simulador e Controle de Investimentos 
+# 📊 Simulador e Controle de Investimentos (FIIs & FI-Infra)
+
+<div align="center">
 
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-DIO%20%7C%20Santander-CC0000?style=for-the-badge&logo=santander)
 ![IA](https://img.shields.io/badge/IA-Claude%20%26%20Gemini-7000FF?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Format-Microsoft%20Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Theme](https://img.shields.io/badge/Theme-Rico%20Orange-FF5500?style=for-the-badge)
 
-Projeto desenvolvido como solução do desafio **"Criando uma Ferramenta de Controle de Investimentos com Excel"**, integrante do bootcamp **Santander - Excel com IA e Claude** na plataforma **DIO (Digital Innovation One)**.
+</div>
+
+Projeto desenvolvido como solução prática para o desafio **"Criando uma Ferramenta de Controle de Investimentos com Excel"**, parte da trilha do bootcamp **Santander - Excel com IA e Claude** na plataforma **DIO (Digital Innovation One)**.
 
 ---
+
+## 📌 Sobre o Projeto
+
+A ferramenta é uma planilha inteligente e automatizada voltada para a gestão e acompanhamento de carteiras de renda variável, com foco em **Fundos Imobiliários (FIIs)** e **FI-Infra**. 
+
+A solução alia conceitos de modelagem financeira no Excel a prompts de Inteligência Artificial para estruturação de fórmulas avançadas, prototipagem de dados e aplicação de uma identidade visual baseada no padrão da **Corretora Rico**.
+
+---
+
 ## 📸 Demonstração da Planilha
 
 <div align="center">
 
 ### 📊 Dashboard Principal
-![Dashboard do Simulador](./img/dashboard.png)
+<img src="./img/dashboard.png" alt="Dashboard do Simulador" width="100%"/>
+
+<br/><br/>
 
 ### 📈 Gráficos de Proventos e Aportes
-![Gráficos de Proventos e Aportes](./img/graficos.png)
+<img src="./img/graficos.png" alt="Gráficos de Proventos e Aportes" width="100%"/>
+
+<br/><br/>
 
 ### 📋 Base de Ativos e Cotas Mágicas
-![Base de Ativos e Indicadores](./img/base-ativos.png)
+<img src="./img/base-ativos.png" alt="Base de Ativos e Indicadores" width="100%"/>
 
 </div>
 
-## 📌 Sobre o Projeto
+---
 
-A ferramenta consiste em uma planilha inteligente e automatizada para gestão de carteira de renda variável, com foco em **Fundos Imobiliários (FIIs)** e **FI-Infra**. A solução combina boas práticas de modelagem financeira no Excel com assistentes de IA para geração de estruturas, fórmulas avançadas e design personalizado no padrão visual da **Corretora Rico**.
+## 🎯 Principais Funcionalidades
+
+* **Dashboard Consolidado:** Indicadores-chave (KPIs) de patrimônio total, rentabilidade em tempo real, proventos acumulados e gráficos de alocação por segmento e corretora.
+* **Controle de Carteira:** Apuração de posições com cálculo automático de **Preço Médio (PM)** ajustado com taxas operacionais.
+* **Gestão de Proventos:** Registros dinâmicos da renda passiva recebida mês a mês.
+* **Simulador Efeito Bola de Neve:** Projeção patrimonial para até 60 meses considerando o reinvestimento de dividendos e aportes recorrentes.
+* **Integração B3:** Padronização de tickers para suporte à atualização de cotações automáticas no Excel.
 
 ---
 
-## 🎯 Funcionalidades da Planilha
+## 🛠️ Tecnologias e Recursos
 
-* **Dashboard Interativo:** Visão consolidada de patrimônio, rentabilidade em tempo real, total de proventos e gráficos de alocação por segmento e corretora.
-* **Controle de Carteira:** Registro de operações com cálculo automático de **Preço Médio (PM)** ajustado com taxas de corretagem e impostos.
-* **Gestão de Proventos:** Acompanhamento mensal do histórico de dividendos e renda passiva acumulada.
-* **Simulador Efeito Bola de Neve:** Projeção para 60 meses considerando o reinvestimento automático dos dividendos e aportes mensais.
-* **Integração com B3:** Estrutura pronta com tickers no padrão B3 para atualização de cotações automáticas.
+* **Microsoft Excel:** Aplicação de funções (`PROCV`, `SOMASE`, `SE`), validação de dados e construção de gráficos dinâmicos.
+* **Engenharia de Prompt (IA):** Apoio na criação das estruturas de cálculo e apoio estético.
+* **Git & GitHub:** Documentação e versionamento do projeto.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📥 Como Baixar e Utilizar
 
-* **Microsoft Excel / OpenPyXL:** Modelagem de fórmulas (`PROCV`, `SOMASE`, `SE`), validação de dados e gráficos.
-* **Engenharia de Prompt & IA:** Utilização de IA para prototipagem de dados, estruturação e identidade visual.
-* **Git & GitHub:** Versionamento do projeto para portfólio.
-
----
-
-## 📥 Como Baixar e Usar
-
-1. Faça o download da planilha [clicando aqui](./Simulador_e_Controle_de_Investimentos_Rico.xlsx).
+1. Faça o download da planilha [clicando aqui](./Simulador_e_Controle_de_Investimentos_Rico.xlsx) ou navegando pelos arquivos do repositório.
 2. Abra o arquivo no **Microsoft Excel** ou no **Google Planilhas**.
-3. Insira suas operações na aba `CARTEIRA` para ver o Dashboard atualizar automaticamente.
+3. Registre suas movimentações na aba `CARTEIRA` para atualizar o Dashboard automaticamente.
 
 ---
 
@@ -60,5 +73,3 @@ A ferramenta consiste em uma planilha inteligente e automatizada para gestão de
 Desenvolvido por **Natália Baptista** 🚀  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev)
 - 🐙 [GitHub](https://github.com/nataliapastre-dev)
-
-
