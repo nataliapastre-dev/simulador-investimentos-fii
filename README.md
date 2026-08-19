@@ -26,14 +26,19 @@ A solução alia conceitos de modelagem financeira no Excel a prompts de Intelig
 <div align="center">
 
 ### 📊 Dashboard Principal
-<img src="./img/dashboard.png" alt="Dashboard do Simulador" width="100%"/>
+<img src="./dashboard.png.png" alt="Dashboard do Simulador" width="100%"/>
 
 <br/><br/>
 
 ### 📈 Gráficos de Proventos e Aportes
-<img src="./img/graficos.png" alt="Gráficos de Proventos e Aportes" width="100%"/>
+<img src="./graficos.png.png" alt="Gráficos de Proventos e Aportes" width="100%"/>
 
 <br/><br/>
+
+### 📋 Base de Ativos e Cotas Mágicas
+<img src="./base-ativos.png.png" alt="Base de Ativos e Indicadores" width="100%"/>
+
+</div>
 
 ### 📋 Base de Ativos e Cotas Mágicas
 <img src="./img/base-ativos.png" alt="Base de Ativos e Indicadores" width="100%"/>
