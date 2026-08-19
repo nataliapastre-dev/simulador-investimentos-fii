@@ -1,4 +1,4 @@
-# 📊 Simulador e Controle de Investimentos (FIIs & FI-Infra)
+# 📊 Simulador e Controle de Investimentos 
 
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-DIO%20%7C%20Santander-CC0000?style=for-the-badge&logo=santander)
 ![IA](https://img.shields.io/badge/IA-Claude%20%26%20Gemini-7000FF?style=for-the-badge)
@@ -8,11 +8,6 @@
 Projeto desenvolvido como solução do desafio **"Criando uma Ferramenta de Controle de Investimentos com Excel"**, integrante do bootcamp **Santander - Excel com IA e Claude** na plataforma **DIO (Digital Innovation One)**.
 
 ---
-
-## 🖥️ Demonstração da Planilha
-
-![Demonstração do Projeto](./img/preview.png)
-
 
 
 ## 📌 Sobre o Projeto
