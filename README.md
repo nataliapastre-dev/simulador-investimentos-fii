@@ -9,6 +9,10 @@ Projeto desenvolvido como solução do desafio **"Criando uma Ferramenta de Cont
 
 ---
 
+## 🖥️ Demonstração da Planilha
+
+![Demonstração do Projeto](./img/preview.png)
+
 
 
 ## 📌 Sobre o Projeto
