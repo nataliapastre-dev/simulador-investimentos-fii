@@ -9,6 +9,14 @@ Projeto desenvolvido como solução do desafio **"Criando uma Ferramenta de Cont
 
 ---
 
+## 📊 Capturas de Tela
+
+Aqui estão alguns prints reais da ferramenta em funcionamento:
+
+![Dashboard da Planilha](./img/dashboard.png)
+
+![Simulador Bola de Neve](./img/simulador.png)
+
 ## 📌 Sobre o Projeto
 
 A ferramenta consiste em uma planilha inteligente e automatizada para gestão de carteira de renda variável, com foco em **Fundos Imobiliários (FIIs)** e **FI-Infra**. A solução combina boas práticas de modelagem financeira no Excel com assistentes de IA para geração de estruturas, fórmulas avançadas e design personalizado no padrão visual da **Corretora Rico**.
