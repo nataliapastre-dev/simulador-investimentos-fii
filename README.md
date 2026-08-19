@@ -73,3 +73,6 @@ A solução alia conceitos de modelagem financeira no Excel a prompts de Intelig
 Desenvolvido por **Natália Baptista** 🚀  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev)
 - 🐙 [GitHub](https://github.com/nataliapastre-dev)
+
+
+Os dados de carteira utilizados no projeto são fictícios e têm finalidade exclusivamente demonstrativa.
