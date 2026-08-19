@@ -9,13 +9,7 @@ Projeto desenvolvido como solução do desafio **"Criando uma Ferramenta de Cont
 
 ---
 
-## 📊 Capturas de Tela
 
-Aqui estão alguns prints reais da ferramenta em funcionamento:
-
-![Dashboard da Planilha](./img/dashboard.png)
-
-![Simulador Bola de Neve](./img/simulador.png)
 
 ## 📌 Sobre o Projeto
 
